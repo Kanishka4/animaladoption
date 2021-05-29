@@ -1,6 +1,6 @@
 import React from 'react';
 //import NavbarComp from './Components/NavbarComp'; 
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 import './AboutUs.css';
 
 const AboutUs =()=>{
