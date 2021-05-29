@@ -11,7 +11,7 @@ const NavbarComp = () =>{
                 <ul className="nav justify-content-center ">
                     
                     <li className="nav-item">
-                        <Link className="nav-link " to="/animaladoption">Home &nbsp;<FontAwesomeIcon icon={faHome} /></Link>
+                        <Link className="nav-link " to="/animaladoption/">Home &nbsp;<FontAwesomeIcon icon={faHome} /></Link>
                     </li>
                     
                     <li className="nav-item">
