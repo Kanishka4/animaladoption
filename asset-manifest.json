@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/animaladoption/static/css/main.0f053399.chunk.css",
-    "main.js": "/animaladoption/static/js/main.2318338d.chunk.js",
-    "main.js.map": "/animaladoption/static/js/main.2318338d.chunk.js.map",
+    "main.js": "/animaladoption/static/js/main.1f630046.chunk.js",
+    "main.js.map": "/animaladoption/static/js/main.1f630046.chunk.js.map",
     "runtime-main.js": "/animaladoption/static/js/runtime-main.38e1dd9e.js",
     "runtime-main.js.map": "/animaladoption/static/js/runtime-main.38e1dd9e.js.map",
     "static/js/2.01808dc0.chunk.js": "/animaladoption/static/js/2.01808dc0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.38e1dd9e.js",
     "static/js/2.01808dc0.chunk.js",
     "static/css/main.0f053399.chunk.css",
-    "static/js/main.2318338d.chunk.js"
+    "static/js/main.1f630046.chunk.js"
   ]
 }
