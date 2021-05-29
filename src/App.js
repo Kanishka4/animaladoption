@@ -34,12 +34,12 @@ class App extends Component {
     <Route exact path="/" render={() => {
                     return (
                       this.state.isUserValid ?
-                      <Redirect to="/home" /> :
-                      <Redirect to="/home" /> 
+                      <Redirect to="/animaladoption" /> :
+                      <Redirect to="/animaladoption" /> 
                     )
                 }}
               />
-    <Route path="/home" component={AboutUs}></Route>
+    <Route path="/animaladoption" component={AboutUs}></Route>
       <Route path="/bangalore" component={bangalore}></Route>
       <Route path="/pune" component={pune}></Route>
       <Route path="/delhi" component={delhi}></Route>
