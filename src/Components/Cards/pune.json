@@ -1,0 +1,83 @@
+[
+    {
+      "key": 0,
+      "name": "DEXTER",
+      "breed": "German Shepherd",
+      "age": "10 months",
+      "location": "PUNE",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg"
+    },
+  
+    {
+      "key": 1,
+      "name": "TOMBY",
+      "breed": "Poodle",
+      "age": "19 months",
+      "location": "PUNE",
+      "image": "https://i.pinimg.com/originals/1d/9d/60/1d9d60dffa1e564c9efb159da4d411da.jpg"
+    },
+  
+    {
+      "key": 2,
+      "name": "KRISTAN",
+      "breed": "Chihuahua",
+      "age": "14 months",
+      "location": "PUNE",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chihuahua1_bvdb.jpg"
+    },
+  
+    {
+      "key": 3,
+      "name": "TAMMY",
+      "breed": "Dachshund",
+      "age": "12 months",
+      "location": "PUNE",
+      "image": "https://www.rover.com/blog/wp-content/uploads/2020/06/Dachshund-1.jpeg"
+    },
+  
+    {
+      "key": 4,
+      "name": "JERED",
+      "breed": "Great Dane",
+      "age": "10 months",
+      "location": "PUNE",
+      "image": "https://vetstreet-brightspot.s3.amazonaws.com/ac/d0/35cf1d1c46f18cbdd147748b7092/great-dane-ap-pfypxj-335.jpg"
+    },
+  
+    {
+      "key": 5,
+      "name": "GAGE",
+      "breed": "Bulldog",
+      "age": "5 months",
+      "location": "PUNE",
+      "image": "https://i2.wp.com/stuff4petz.com/wp-content/uploads/2014/04/8522011856_2de28764df_h.jpg?fit=1161%2C1086&ssl=1"
+    },
+  
+    {
+      "key": 6,
+      "name": "CABRA",
+      "breed": "Labrador",
+      "age": "19 months",
+      "location": "PUNE",
+      "image": "https://www.dogsnsw.org.au/media/img/BrowseAllBreed/Labrador-Retriever.jpg"
+    },
+  
+    {
+      "key": 7,
+      "name": "REDFORD",
+      "breed": "Chow chow",
+      "age": "8 months",
+      "location": "PUNE",
+      "image": "https://www.perfectdogbreeds.com/wp-content/uploads/2020/04/Chow-Chow-What-to-Know-Before-Buying-Cover.jpg"
+    },
+  
+    {
+      "key": 8,
+      "name": "LILLI",
+      "breed": "Toy poodle",
+      "age": "12 months",
+      "location": "PUNE",
+      "image": "https://www.yourpurebredpuppy.com/dogbreeds/photos-TZ/toypoodlesf1.jpg"
+    }
+  ]
+  

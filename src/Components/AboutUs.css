@@ -1,0 +1,35 @@
+/*.background {
+    background-image: url('https://dt2n0xjvnpvnu.cloudfront.net/assets/product_images/img_article-head_rabies-facts-pet.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }*/
+
+ h3{
+   text-decoration: underline;
+    color: black;
+    padding-top: 20px;
+ }
+ 
+  div.transbox {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 3px solid black;
+    opacity: 0.6;
+  }
+  
+  div.transbox p {
+    margin: 7%;
+    font-weight: bold;
+    color: #000000;
+  }
+
+  p.para{
+    color:black;
+    font-size:160%;
+    font-family:courier;
+  }
+
+  .footer{
+    margin-top: 10px;
+  }
