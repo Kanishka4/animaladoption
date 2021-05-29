@@ -1,0 +1,82 @@
+[
+  {
+    "key": 0,
+    "name": "Jackson",
+    "breed": "Rottweiler",
+    "age": "3 Months",
+    "location": "Delhi",
+    "image": "https://uptownpuppies.com/wp-content/themes/mega-theme/images/rottweiler3.jpg"
+  },
+
+  {
+    "key": 1,
+    "name": "Sam",
+    "breed": "Labrador",
+    "age": "8 Months",
+    "location": "Delhi",
+    "image": "https://www.animalshq.com/wp-content/uploads/2020/03/labradoe-outside.jpg"
+  },
+
+  {
+    "key": 2,
+    "name": "Jacky",
+    "breed": "German Shepherd",
+    "age": "7 Months",
+    "location": "Delhi",
+    "image": "https://www.petplace.com/static/d9ef35df99413fbc95fa70fb5e2cb4a5/0979f/Image00077-2.jpg"
+  },
+
+  {
+    "key": 3,
+    "name": "Zeus",
+    "breed": "Pitbull",
+    "age": "13 Months",
+    "location": "Delhi",
+    "image": "https://st.depositphotos.com/1034382/3969/i/600/depositphotos_39694695-stock-photo-pitbull-near-house.jpg"
+  },
+
+  {
+    "key": 4,
+    "name": "Rocky",
+    "breed": "English Mastiff",
+    "age": "3 Months",
+    "location": "Delhi",
+    "image": "https://petsidi.com/wp-content/uploads/2018/07/black-english-mastiff-puppies-for-sale.jpg"
+  },
+
+  {
+    "key": 5,
+    "name": "Dexter",
+    "breed": "Boxer",
+    "age": "12 Months",
+    "location": "Delhi",
+    "image": "https://howtotrainthedog.com/wp-content/uploads/2018/08/black-boxer-dog-guide.jpg"
+  },
+
+  {
+    "key": 6,
+    "name": "Max",
+    "breed": "Golden Retriever",
+    "age": "2 Months",
+    "location": "Delhi",
+    "image": "https://www.petplace.com/static/34b93d6fa8ec8aa3cdfd706fa8585f98/c85e8/shutterstock_1555613531.png"
+  },
+
+  {
+    "key": 7,
+    "name": "Harry",
+    "breed": "Beagle",
+    "age": "4 Months",
+    "location": "Delhi",
+    "image": "https://i.pinimg.com/originals/c8/59/01/c8590121f7c373c00121000a080f35cc.jpg"
+  },
+
+  {
+    "key": 8,
+    "name": "Tuffy",
+    "breed": "Japanese Spitz",
+    "age": "2 Months",
+    "location": "Delhi",
+    "image": "https://i.pinimg.com/originals/20/1c/e4/201ce46cda1a2e201426ad452653b336.jpg"
+  }
+]

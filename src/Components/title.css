@@ -1,0 +1,55 @@
+.titleText{
+    background-color: #6B8E23;
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom:20px ;
+    margin-bottom: 0px;
+    visibility: visible;
+}
+
+.navbar{
+    color: white;
+    background-color:#87A96B;
+    width: 100%;
+    display: block;
+    text-align: center;
+   position: sticky;
+   margin-top: 0px;
+}
+
+a{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    font-size: large;
+    text-decoration: underline;
+}
+
+a:active{
+    color: cornsilk;
+    text-decoration: underline;
+}
+
+input[type="text"]{
+    width: 200px !important;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 15px;
+  background-color: white;
+}
+
+.btn{
+    width: fit-content;
+    height: 30px;
+}
+
+.searchIcon{
+    height: 20px;
+}
+

@@ -1,0 +1,36 @@
+.form {
+    border: 2px solid #6b8e23;
+    margin-top: 100px;
+    justify-content: center;
+   width: fit-content;
+   padding: 10px;
+   align-self: center;
+   margin-left: 200px;
+  }
+.adopt{
+    margin-top: 50px;
+    width: 250px !important;
+    height: 200px !important;
+    transform: none;
+}
+  .form-control{
+    border: 2px solid lightgray !important;
+    border-radius: 2px !important;
+}
+
+.input-group-addon{
+    width: 30px;
+    padding: 5px;
+    border: 1px solid lightgray !important;
+    background-color: #F0F0F0;
+}
+
+  @media screen and (min-width: 900px){
+      .form{
+          margin-left: 500px;
+          width: 500px;
+      }
+      .form-control{
+          width: 300px !important;
+      }
+  }
